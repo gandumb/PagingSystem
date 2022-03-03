@@ -69,7 +69,7 @@ void FIFO(char memory[4][25], char removedPages[4][25], FILE *inputFile){
         }
 
         int pageFault = 1; // set to 0 if no page fault
-        for (int i = 0; i < 5; i++){
+        for (int i = 0; i < 4; i++){
             if (memory[i][y] == page){
                 pageFault = 0;
                 break;
@@ -125,7 +125,7 @@ void LRU(char memory[4][25], char removedPages[4][25], FILE *inputFile){
         // Resume normal operations
         y++;
 
-        for (int i = 0; i < 5; i++){
+        for (int i = 0; i < 4; i++){
             memory[i][y] = memory[i][y-1];
             removedPages[i][y] = removedPages[i][y-1];
         }
