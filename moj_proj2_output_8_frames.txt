@@ -1,0 +1,330 @@
+Page Replace Algo: FIFO - Page Frame Size: 8 - Timestamp: 2022-03-17 00:20:11.001
+
+Page Referenced: 6 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 0 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 8 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:11.017
+Page Referenced: 10 at 2022-03-17 00:20:11.017
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 4 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 10 at 2022-03-17 00:20:11.017
+Page Referenced: 7 at 2022-03-17 00:20:11.017
+Page Referenced: 2 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:11.017
+Page Referenced: 6 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:11.017
+Page Referenced: 11 at 2022-03-17 00:20:11.017
+Page Referenced: 2 at 2022-03-17 00:20:11.017
+Page Referenced: 3 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 4 at 2022-03-17 00:20:11.017
+Page Referenced: 7 at 2022-03-17 00:20:11.017
+Page Referenced: 13 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 2 at 2022-03-17 00:20:11.017
+Page Referenced: 6 at 2022-03-17 00:20:11.017
+Page Referenced: 15 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:11.017
+Page Referenced: 9 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:11.017
+Page Referenced: 15 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:11.017
+Page Referenced: 11 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:11.017
+Page Referenced: 13 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:11.017
+Page Referenced: 15 at 2022-03-17 00:20:11.017
+Page Referenced: 11 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 0 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:11.017
+Page Referenced: 12 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 1 at 2022-03-17 00:20:11.017
+Page Referenced: 9 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:11.017
+Page Referenced: 2 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:11.017
+Page Referenced: 6 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:11.017
+Page Referenced: 8 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:11.017
+Page Referenced: 11 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017
+Page Referenced: 12 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017
+Page Referenced: 5 at 2022-03-17 00:20:11.017
+Page Referenced: 14 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:11.017 - Page Fault Occured!
+
+Total Page Faults: 55
+
+
+End of FIFO Simulation
+
+-----
+
+Page Replace Algo: LRU - Page Frame Size: 8 - Timestamp: 2022-03-17 00:20:14.001
+
+Page Referenced: 0 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:14.016
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 2 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:14.016
+Page Referenced: 11 at 2022-03-17 00:20:14.016
+Page Referenced: 8 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 11 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:14.016
+Page Referenced: 3 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 11 at 2022-03-17 00:20:14.016
+Page Referenced: 6 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:14.016
+Page Referenced: 10 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 14 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 12 at 2022-03-17 00:20:14.016
+Page Referenced: 4 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:14.016
+Page Referenced: 7 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:14.016
+Page Referenced: 2 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016
+Page Referenced: 11 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 3 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:14.016
+Page Referenced: 10 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:14.016
+Page Referenced: 3 at 2022-03-17 00:20:14.016
+Page Referenced: 9 at 2022-03-17 00:20:14.016
+Page Referenced: 6 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 7 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 15 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 4 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 10 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 9 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016
+Page Referenced: 4 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 2 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 14 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:14.016
+Page Referenced: 8 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016
+Page Referenced: 5 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:14.016 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016
+Page Referenced: 13 at 2022-03-17 00:20:14.016
+Page Referenced: 1 at 2022-03-17 00:20:14.016
+
+Total Page Faults: 50
+
+
+End of LRU Simulation
+
+-----
+
+Page Replace Algo: SC - Page Frame Size: 8 - Timestamp: 2022-03-17 00:20:19.001
+
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 4 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015
+Page Referenced: 1 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 6 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:19.015
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 6 at 2022-03-17 00:20:19.015
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 5 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015
+Page Referenced: 2 at 2022-03-17 00:20:19.015
+Page Referenced: 13 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 10 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 11 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:19.015
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 10 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 12 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 13 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 13 at 2022-03-17 00:20:19.015
+Page Referenced: 13 at 2022-03-17 00:20:19.015
+Page Referenced: 5 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:19.015
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 9 at 2022-03-17 00:20:19.015
+Page Referenced: 11 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 14 at 2022-03-17 00:20:19.015
+Page Referenced: 9 at 2022-03-17 00:20:19.015
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 9 at 2022-03-17 00:20:19.015
+Page Referenced: 13 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 5 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 5 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 2 at 2022-03-17 00:20:19.015
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 10 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 9 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 1 at 2022-03-17 00:20:19.015
+Page Referenced: 12 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 3 at 2022-03-17 00:20:19.015
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 12 at 2022-03-17 00:20:19.015
+Page Referenced: 12 at 2022-03-17 00:20:19.015
+Page Referenced: 4 at 2022-03-17 00:20:19.015
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 8 at 2022-03-17 00:20:19.015
+Page Referenced: 0 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 0 at 2022-03-17 00:20:19.015
+Page Referenced: 7 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 15 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:19.015 - Page Fault Occured!
+Page Referenced: 11 at 2022-03-17 00:20:19.015
+
+Total Page Faults: 55
+
+
+End of SC Simulation
+
+-----
+
